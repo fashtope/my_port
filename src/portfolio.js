@@ -128,61 +128,61 @@ const works = [
         imageLink: "images/omnifood.png",
         alignLeft: false
     },
-    {
-        projectName: "Dynamic Portfolio Website",
-        yearCompleted: "2021",
-        description: "Developed a personal portfolio for a client website with Python backend using the Django web development framework. Incorporated HTML, CSS, and JavaScript to construct the frontend of the website.",
-        techStack: "Django, Python, HTML, CSS, JS",
-        links: [
-            {
-                label: "",
-                type: "external",
-                url: "https://maximshelepov.com"
-            }
-        ],
-        imageLink: "images/portfolio_pic.png",
-        alignLeft: true
-    },
-    {
-        projectName: "Trivia Quiz",
-        yearCompleted: "2020",
-        description: "Interested in taking a fun and interactive pop quiz? Using the HTML, CSS3, JavaScript, and jQuery I created a quiz that can be taken on numerous topics of your choice and gives instant feedback. The entire project is built mostly on JavaScript and all the functionality and events are controlled through functions such as ReadDisplay and Validate. The HTML portion of the online quiz only serves as the skeleton and template for elements that will be created via JS.",
-        techStack: "JS, HTML, CSS",
-        links: [
-            {
-                label: "",
-                type: "git",
-                url: "https://github.com/feifyKike/JS-API-Quiz"
-            },
-            {
-                label: "",
-                type: "external",
-                url: "https://codepen.io/Max_the_coder/pen/yLXZOYL" //https://codepen.io/Max_the_coder/pen/yLXZOYL
-            }
-        ],
-        imageLink: "images/trivia_pic.png",
-        alignLeft: true
-    },
-    {
-        projectName: "Coronavirus Report",
-        yearCompleted: "2020",
-        description: "Created a program that displays up-to-date COVID-19 data and shows results in a graphical / visual representation. Coded with the Python programming language and libraries such as Matplotlib, Requests, and CSV.",
-        techStack: "Python",
-        links: [
-            {
-                label: "",
-                type: "git",
-                url: "https://youtu.be/gw5kb1QKVp0"
-            },
-            {
-                label: "",
-                type: "external",
-                url: "https://github.com/feifyKike/Covid-Cases-Visual"
-            }
-        ],
-        imageLink: "images/covid_pic.png",
-        alignLeft: false
-    }
+    // {
+    //     projectName: "Dynamic Portfolio Website",
+    //     yearCompleted: "2021",
+    //     description: "Developed a personal portfolio for a client website with Python backend using the Django web development framework. Incorporated HTML, CSS, and JavaScript to construct the frontend of the website.",
+    //     techStack: "Django, Python, HTML, CSS, JS",
+    //     links: [
+    //         {
+    //             label: "",
+    //             type: "external",
+    //             url: "https://maximshelepov.com"
+    //         }
+    //     ],
+    //     imageLink: "images/portfolio_pic.png",
+    //     alignLeft: true
+    // },
+    // {
+    //     projectName: "Trivia Quiz",
+    //     yearCompleted: "2020",
+    //     description: "Interested in taking a fun and interactive pop quiz? Using the HTML, CSS3, JavaScript, and jQuery I created a quiz that can be taken on numerous topics of your choice and gives instant feedback. The entire project is built mostly on JavaScript and all the functionality and events are controlled through functions such as ReadDisplay and Validate. The HTML portion of the online quiz only serves as the skeleton and template for elements that will be created via JS.",
+    //     techStack: "JS, HTML, CSS",
+    //     links: [
+    //         {
+    //             label: "",
+    //             type: "git",
+    //             url: "https://github.com/feifyKike/JS-API-Quiz"
+    //         },
+    //         {
+    //             label: "",
+    //             type: "external",
+    //             url: "https://codepen.io/Max_the_coder/pen/yLXZOYL" //https://codepen.io/Max_the_coder/pen/yLXZOYL
+    //         }
+    //     ],
+    //     imageLink: "images/trivia_pic.png",
+    //     alignLeft: true
+    // },
+    // {
+    //     projectName: "Coronavirus Report",
+    //     yearCompleted: "2020",
+    //     description: "Created a program that displays up-to-date COVID-19 data and shows results in a graphical / visual representation. Coded with the Python programming language and libraries such as Matplotlib, Requests, and CSV.",
+    //     techStack: "Python",
+    //     links: [
+    //         {
+    //             label: "",
+    //             type: "git",
+    //             url: "https://youtu.be/gw5kb1QKVp0"
+    //         },
+    //         {
+    //             label: "",
+    //             type: "external",
+    //             url: "https://github.com/feifyKike/Covid-Cases-Visual"
+    //         }
+    //     ],
+    //     imageLink: "images/covid_pic.png",
+    //     alignLeft: false
+    // }
 ]
 
 const archiveLink = "https://github.com/feifyKike?tab=repositories"
